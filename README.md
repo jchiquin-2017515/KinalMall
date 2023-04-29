@@ -1,0 +1,2 @@
+# KinalMall
+Kinal Mall aplicación
